@@ -1,4 +1,7 @@
-##Get Random Anime Video
+## Output Example
+```
+
+## Get Random Anime Video
 GET /video/anime
 
 ```Returns a random anime video in JSON format.
