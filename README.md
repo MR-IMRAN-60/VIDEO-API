@@ -1,6 +1,7 @@
 ## Get Random Video 
 
 
+## Get 
 ``` http://localhost:3000/video/anime ```
 
 ```Returns a random anime video in JSON format.
