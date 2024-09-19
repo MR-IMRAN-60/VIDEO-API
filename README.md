@@ -17,7 +17,7 @@ Copy code
 
 
 
-Add/Update Anime Video
+##Add/Update Anime Video
 GET /album?title=ANIME_TITLE&url=IMGUR_LINK
 
 Adds a new anime video or updates an existing one.
