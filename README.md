@@ -26,7 +26,7 @@ Copy code
 ```bash Adds a new anime video or updates an existing one.
 Query parameters:
 title: Title of the anime.
-url: Imgur link of the anime.```
+url: Imgur link of the anime.
 Response:
 json
 Copy code
