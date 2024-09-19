@@ -1,7 +1,7 @@
-Get Random Anime Video
-GET /video/anime
+```Get Random Anime Video
+GET /video/anime```
 
-Returns a random anime video in JSON format.
+```Returns a random anime video in JSON format.
 Response:
 json
 Copy code
@@ -13,7 +13,7 @@ Copy code
     "count": 10,
     "owner": "Mohammad IMRAN",
     "contact": "www.facebook.com/100075122837809"
-}
+}```
 
 
 
