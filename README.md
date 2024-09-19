@@ -21,7 +21,7 @@ Copy code
 ```
 
 ## Add /update Anime Video
-## GET /album?title=ANIME_TITLE&url=IMGUR_LINK
+```http://localhost:3000/album?title=ANIME_TITLE&url=IMGUR_LINK```
 
 ```Adds a new anime video or updates an existing one.
 Query parameters:
