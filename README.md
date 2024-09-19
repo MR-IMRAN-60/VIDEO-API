@@ -1,8 +1,5 @@
-## Output Example
-```
-
-## Get Random Anime Video
-GET /video/anime
+## Get Random Video [ /video/anime ]
+## Get /video/anime
 
 ```Returns a random anime video in JSON format.
 Response:
@@ -18,12 +15,12 @@ Copy code
     "contact": "www.facebook.com/100075122837809"
 }
 
+```
 
+## Add /update Anime Video
+## GET /album?title=ANIME_TITLE&url=IMGUR_LINK
 
-##Add/Update Anime Video
-GET /album?title=ANIME_TITLE&url=IMGUR_LINK
-
-Adds a new anime video or updates an existing one.
+```Adds a new anime video or updates an existing one.
 Query parameters:
 title: Title of the anime.
 url: Imgur link of the anime.
