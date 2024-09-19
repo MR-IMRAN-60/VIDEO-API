@@ -29,7 +29,7 @@ Query parameters:
 title: Title of the anime.
 url: Imgur link of the anime.
 ```
-Response:
+```Response:
 json
 Copy code
 {
