@@ -32,7 +32,7 @@ Copy code
 ```http://localhost:3000/album?title=ANIME_TITLE&url=IMGUR_LINK```
 
 ## massnger bot file 
-```https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js```
+
 [![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js)
 
 ```bash
