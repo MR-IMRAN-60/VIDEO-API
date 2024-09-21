@@ -11,6 +11,9 @@
 
 ## Get 
 ``` http://localhost:3000/video/anime ```
+## massnger bot file 
+
+[![js file](https://img.shields.io/badge/videofile-red?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/random.js)
 
 ```Returns a random anime video in JSON format.
 Response:
@@ -33,7 +36,7 @@ Copy code
 
 ## massnger bot file 
 
-[![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js)
+[![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/add.js)
 
 ```bash
 Adds a new anime video or updates an existing one.
