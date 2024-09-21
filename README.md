@@ -33,7 +33,7 @@ Copy code
 
 ## massnger bot file 
 ```https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js```
-[![js file](https://img.shields.io/badge/jsfile-pink?style=for-the-badge&logo=facebook)](https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js)
+[![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/VIDEO-API/refs/heads/main/rndadd.js)
 
 ```bash
 Adds a new anime video or updates an existing one.
