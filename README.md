@@ -38,6 +38,8 @@ Copy code
 
 [![js file](https://img.shields.io/badge/addfile-yellow?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/add.js)
 
+[![js file](https://img.shields.io/badge/addfile-brown?style=for-the-badge&logo=nodejs)](https://raw.githubusercontent.com/MR-IMRAN-60/ImranBypass/refs/heads/main/addnpm.js)
+
 ```bash
 Adds a new anime video or updates an existing one.
 Query parameters:
