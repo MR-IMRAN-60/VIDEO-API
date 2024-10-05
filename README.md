@@ -46,8 +46,8 @@ Query parameters:
 title: Title of the anime.
 url: Imgur link of the anime.
 ```
-```Response:
-json
+## Response:
+```json
 Copy code
 {
     "success": "Entry added/updated successfully",
